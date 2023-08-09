@@ -1,4 +1,4 @@
-# yui_bot2
+# yui_bot
 
 ## 基于nonebot2使用onebotV11和V12作为适配器
 RA3百科问答机
