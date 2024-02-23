@@ -1,9 +1,12 @@
-# yui_bot
+# yui
 
-## 基于nonebot2使用onebotV11和V12作为适配器
-RA3百科问答机
+## How to start
 
-插件也就看看就好，写的很乱，最好别用，最好只是看看，因为代码真的不堪入目
-谢谢你，拉格朗日
-## 鸣谢
-[nonebot](https://v2.nonebot.dev/)
+1. generate project using `nb create` .
+2. create your plugin using `nb plugin create` .
+3. writing your plugins under `yui/plugins` folder.
+4. run your bot using `nb run --reload` .
+
+## Documentation
+
+See [Docs](https://nonebot.dev/)
